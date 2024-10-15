@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 
 Click [me 👋](https://jerma88.github.io/assets/pdf/Research.pdf) for a copy of my resume!
 
-I am Zerui "Jerry" Ma an undergraduate researcher at Southern Methodist University in Dallas, Tx. I major in Computer Science B.S., Mathematics B.A. and Data Science B.S.. I am working with [Dr. Mehak Gupta](mailto:mehakg.smu.edu)[🔗](https://mehak25.github.io/) for her current research in deep learning and natural language processing with applications in healthcare, where my responsibility has been fine-tuning LLM with interview transcripts for personality and disorder detection.
+I am Zerui "Jerry" Ma, an undergraduate researcher at Southern Methodist University in Dallas, Tx. I major in Computer Science B.S., Mathematics B.A. and Data Science B.S.. I am working with [Dr. Mehak Gupta](mailto:mehakg.smu.edu)[🔗](https://mehak25.github.io/) for her current research in deep learning and natural language processing with applications in healthcare, where my responsibility has been fine-tuning LLM with interview transcripts for personality and disorder detection.
 
 I am looking for a Ph.D. program in Computer Science, with a focus on Machine Learning Theory and Natural Language Processing.
 
