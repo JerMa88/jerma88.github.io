@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - JerMa88
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - JerMa88/ModernComputingSystem ModernComputingSystem
+  - JerMa88/jerma88.github.io
+  - JerMa88/ProjectManager 
+  - JerMa88/isa_vehicle_detection 
+  - JerMa88/DS1300_GroupC 
+  - KrrishDDVKS/Medical_Assistant 
