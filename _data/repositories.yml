@@ -4,7 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - JerMa88/ModernComputingSystem ModernComputingSystem
+  - JerMa88/ModernComputingSystem
   - JerMa88/jerma88.github.io
   - JerMa88/ProjectManager 
   - JerMa88/isa_vehicle_detection 
