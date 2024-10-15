@@ -7,6 +7,10 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Summer Camp Teaching for Texas Governor's Champion:
 
-Organize your courses by years, topics, or universities, however you like!
+* **Course**: AI and Machine Learning
+* **Date**: July 2024
+* **Location**: Dallas, Texas
+* **Description**: This course is designed for high school students who are interested in AI and machine learning. The course covers the basic concepts of history of AI, intelligent agents and machine learning. The course also includes hands-on projects to help students apply what they have learned.
+* **Experience**: This is the first time I taught a class. I planned the curriculum myself and coordinated with a colleague to deliver the planned teaching materials. I had a great time teaching the students and I learned a lot from them academically and just personally. I will definitely consider teaching in the future.
