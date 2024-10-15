@@ -4,7 +4,7 @@
     "label": "Prospect Ph.D. Student",
     "image": "",
     "email": "jerryma@smu.edu",
-    "phone": "(747)289-8602",
+    "phone": "(747) 289-8602",
     "url": "https://jerma88.github.io/",
     "summary": "Currently finishing a Bachelor in CS, Math and Data Science. Interested in academic research. Click the PDF icon to download my resume.",
     "location": {
@@ -48,7 +48,7 @@
       "url": "https://www.smu.edu/",
       "area": "Computer Science, Mathematics, Data Science",
       "studyType": "Bachelor",
-      "startDate": "August 2022",
+      "startDate": "Aug 2022",
       "endDate": "May 2025",
       "GPA": "3.7"
     }
@@ -76,12 +76,12 @@
       "date": "October 2024"
     }
   ],
-  "researchExperience": [
+  "research experience": [
     {
       "name": "Personality LLM Research",
       "role": "Research Assistant",
       "organization": "SMU",
-      "startDate": "December 2023",
+      "startDate": "Dec 2023",
       "endDate": "Ongoing",
       "summary": "Using PyTorch and Transformer to fine-tune a custom LLM to predict Big-Five Personality Traits. Involved in preprocessing real-life interview data and fine-tuning BERT and Llama models.",
       "highlights": [
@@ -131,7 +131,7 @@
       "name": "Personality LLM Research",
       "role": "Research Assistant",
       "organization": "SMU",
-      "startDate": "December 2023",
+      "startDate": "Dec 2023",
       "endDate": "Ongoing",
       "summary": "Using PyTorch and Transformer to fine-tune a custom LLM to predict Big-Five Personality Traits. Involved in preprocessing real-life interview data and fine-tuning BERT and Llama models.",
       "highlights": [
@@ -152,7 +152,7 @@
       ]
     },
     {
-      "name": "Governor’s Champion Summer Camp",
+      "name": "Governor's Champion Summer Camp",
       "role": "AI and Machine Learning Instructor",
       "organization": "SMU",
       "startDate": "July 2024",
@@ -167,7 +167,7 @@
       "role": "Peer Programmer",
       "organization": "Dallas AI",
       "startDate": "June 2024",
-      "endDate": "August 2024",
+      "endDate": "Aug 2024",
       "summary": "Developed a medical transcript summarization tool using LangChain and Python. Hosted a vector database to enhance LLM-based medical diagnosis using GPT-4.",
       "highlights": [
         "Increased medical diagnosis efficiency by streamlining review of patient histories."
@@ -185,27 +185,8 @@
         "Shell Script",
         "SQL",
         "STM/MIPS ASM",
-        "JavaScript",
-        "HTML",
-        "CSS",
+        "JS/HTML/CSS",
         "Swift"
-      ]
-    },
-    {
-      "name": "DevOps",
-      "level": "Proficient",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "REST API",
-        "Jekyll",
-        "GNU",
-        "Valgrind",
-        "NPM",
-        "Jenkins",
-        "Azure",
-        "VSC",
-        "JetBrains"
       ]
     },
     {
@@ -215,10 +196,25 @@
         "PyTorch",
         "scikit-learn",
         "HPC",
+        "batch job",
         "Dask",
-        "BERT",
-        "Llama",
-        "Stable Diffusion"
+        "YOLO",
+        "DDP",
+        "VIM"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Proficient",
+      "keywords": [
+        "Git/GitHub",
+        "REST API",
+        "Jekyll",
+        "GNU",
+        "Valgrind",
+        "Docker",
+        "Jupyter",
+        "Azure"
       ]
     },
     {
@@ -228,23 +224,24 @@
         "Linux (Arch, Ubuntu)",
         "Windows 7-11",
         "MacOS",
-        "DDP",
+        "LaTeX",
+        "Markdown",
+        "R",
         "Web Scraping",
         "Microsoft Office"
       ]
     }
   ],
-  "workExperience": [
+  "work experience": [
     {
       "name": "Dedman Center for Lifetime Sports",
       "role": "Gym Manager",
       "organization": "SMU",
-      "startDate": "October 2022",
-      "endDate": "December 2023",
+      "startDate": "Oct 2022",
+      "endDate": "Dec 2023",
       "summary": "Managed a team to maintain the facility and ensured smooth operations with strong communication and leadership skills."
     }
   ],
-
   "languages": [
     {
       "language": "Chinese",
@@ -253,9 +250,13 @@
     {
       "language": "English",
       "fluency": "Fluent"
-    }
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Conversational"
+    } 
   ],
-  "additionalInformation": [{
+  "additional information": [{
     "summary": "Open to opportunities in computational linguistics, natural language processing, and ML research. Interested in contributing to research groups focused on large language models, their optimization, and their application."
   }]
 }
