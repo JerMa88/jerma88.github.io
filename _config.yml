@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Zerui
-middle_name: \"Jerry\"
+middle_name: "\"Jerry\""
 last_name: Ma
 email: jerryma@smu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -175,6 +175,16 @@ external_sources:
     posts:
       - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
         published_date: 2024-05-14
+  - name: Llama3.1 Blog
+    posts:
+      - url: https://ai.meta.com/blog/meta-llama-3-1/
+        published_date: 2024-07-23
+
+  - name: Llama3.2 Blog
+    posts:
+      - url: https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/
+        published_date: 2024-09-25
+
 
 # -----------------------------------------------------------------------------
 # Newsletter
