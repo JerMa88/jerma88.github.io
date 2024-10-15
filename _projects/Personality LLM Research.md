@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Personality LLM Research
-description: a project with a background image and giscus comments
+description: fine-tuning LLM for personality detection
 img: assets/img/3.jpg
 importance: 1
 category: work
@@ -9,11 +9,11 @@ giscus_comments: true
 related_publications: true
 ---
 ## Overview:
-* Using PyTorch and Transformer to fine-tune a custom LLM to predict the Big-Five Personality Traits
+* Using PyTorch and Transformer to fine-tune a custom LLM to predict Big-Five Personality Traits
 * Preprocessed real-life interview data with Pandas and NLTK to fine-tune BERT and Llama transformers
-* Using VIM in CLI to run batch job that trains model on HPC; expert in Ubuntu Linux commands, directories
-* Proposes novel and accurate personality prediction for interview data to the academic field of NLP
-* Extracted fine-tuned roBERTa embeddings for Recurrent Neural Networks training for regression tasks
+* Using VIM in CLI to run batch job that trains model on HPC; utilize directories and commands in Linux command line interface
+* Proposes accurate personality prediction for interview data to the academic field of NLP and Computational Linguistics
+* Extracted fine-tuned roBERTa embeddings for novel methodologies for efficient regression tasks
 
 ## Methodology:
 Throughout this research, I have gained experience in fine-tuning large language models (LLMs) for various natural language processing tasks, including predicting personality  using Big-Five Personality Traits. Specifically, I have worked with advanced transformer architectures such as RoBERTa and fine-tuned them for regression tasks using the simpletransformers and transformers library. This involved preprocessing interview transcripts and handling large datasets with complex contextual relationships in the text. I have expertise in optimizing hyperparameters such as sequence length, learning rate, and batch size for high-performance training, while utilizing techniques like sliding windows to manage long text sequences.
