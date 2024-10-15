@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Click [me 👋](https://jerma88.github.io/assets/pdf/Research.pdf) for a copy of my [**resumé**](https://jerma88.github.io/assets/pdf/Research.pdf)!
+Click [*me 👋*](https://jerma88.github.io/assets/pdf/Research.pdf) for a copy of my [*resumé*](https://jerma88.github.io/assets/pdf/Research.pdf)!
 
 I am Zerui "Jerry" Ma, an undergraduate researcher at Southern Methodist University in Dallas, Tx. I major in Computer Science B.S., Mathematics B.A. and Data Science B.S.. I am working with [Dr. Mehak Gupta](mailto:mehakg.smu.edu)[🔗](https://mehak25.github.io/) for her current research in deep learning and natural language processing with applications in healthcare, where my responsibility has been fine-tuning LLM with interview transcripts for personality and disorder detection.
 
@@ -35,22 +35,28 @@ My works can be found here:
 
 ## Research Interest
 
-* Machine Learning Theory
-* Natural Language Processing
-* Recommender System
-* Neural Network
-* Data Mining
+* **Natural Language Processing**
+* Transformer-based Models
+* Large Language Models
+* Computational Linguistics
+* ML with Medical Data
+
+* **Theoretical Machine Learning**
+* Neural Networks
+* Parallel Computing
+* Computer Vision
 
 ## Publications
 
 1. Under Review: submission to EMNLP 2024 through ACL ARR June 2024 (3rd Author)
-2. Under Review: submission to Journal of Psychopathology and Clinical Science (2nd Author)
-3. To be Submitted: submission to Transactions of the Association for Computational Linguistics (TACL)
+2. Under Review: submission to [Journal of Psychopathology and Clinical Science](https://www.apa.org/pubs/journals/abn) (2nd Author) [Abstract](https://jerma88.github.io/projects/Personality-LLM-Research/)
+3. To be Submitted: submission to [Transactions of the Association for Computational Linguistics](https://transacl.org/) (TACL) [Abstract](https://jerma88.github.io/projects/Personality-LLM-Research/)
 
 ## Contact
 
 * Email: [jerryma@smu.edu](mailto:jerryma@smu.edu)
 * LinkedIn: [Zerui Ma](https://www.linkedin.com/in/jerma88/)
+* ORCID: [Zerui Ma](https://orcid.org/0009-0005-9846-6056)
 
 ## Current Courses
 * Mathematics of Machine Learning
