@@ -1,17 +1,17 @@
 ---
 layout: page
 title: Personality LLM Research
-description: fine-tuning LLM for personality detection
+description: Fine-Tuning LLM for Personality Detection
 img: assets/img/3.jpg
 importance: 1
 category: work
-giscus_comments: true
+giscus_comments: false
 related_publications: true
 ---
 ## Overview:
 * Using PyTorch and Transformer to fine-tune a custom LLM to predict Big-Five Personality Traits
 * Preprocessed real-life interview data with Pandas and NLTK to fine-tune BERT and Llama transformers
-* Using VIM in CLI to run batch job that trains model on HPC; utilize directories and commands in Linux command line interface
+* Using VIM in command line interface to edit batchjob; utilize directories and commands in Linux CLI to run batch job that trains model on HPC
 * Proposes accurate personality prediction for interview data to the academic field of NLP and Computational Linguistics
 * Extracted fine-tuned roBERTa embeddings for novel methodologies for efficient regression tasks
 
