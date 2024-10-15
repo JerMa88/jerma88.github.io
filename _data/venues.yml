@@ -1,9 +1,10 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"2024 EMNLP":
+  url: https://2024.emnlp.org
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Journal of Psychopathy and Clinical Science":
+  url: https://www.apa.org/pubs/journals/abn
 
-"Vision":
+"TACL":
+  url: https://transacl.org
   color: "#009f36"
