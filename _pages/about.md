@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.smu.edu/lyle/departments/cs'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -17,11 +17,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an undergraduate researcher at Southern Methodist University in Dallas, Tx. I major in Computer Science B.S., Mathematics B.A. and Data Science B.S.. I am working with [Dr. Mehak Gupta](mehakg.smu.edu) for her current research in deep learning and natural language processing with applications in healthcare, where my responsibility has been fine-tuning LLM with interview transcripts for personality and disorder detection.
+I am an undergraduate researcher at Southern Methodist University in Dallas, Tx. I major in Computer Science B.S., Mathematics B.A. and Data Science B.S.. I am working with [Dr. Mehak Gupta](mailto:mehakg.smu.edu)[🔗](https://mehak25.github.io/) for her current research in deep learning and natural language processing with applications in healthcare, where my responsibility has been fine-tuning LLM with interview transcripts for personality and disorder detection.
 
 I am looking for a Ph.D. program in Computer Science, with a focus on Machine Learning Theory and Natural Language Processing.
 
-I also have an individual study session on Recommender System applied in University Schema mentored by [Dr. Michael Hahsler](mhahsler@smu.edu) of Computer Science at the Bobby B. Lyle School of Engineering, and [Dr. Peter Moore](pmoore@smu.edu) of Mathematics at the Dedman College of Humanities and Sciences. 
+I also have an individual study session on Recommender System applied in University Schema mentored by [Dr. Michael Hahsler](mailto:mhahsler@smu.edu)[🔗](https://michael.hahsler.net/) of Computer Science at the Bobby B. Lyle School of Engineering, and [Dr. Peter Moore](mailto:pmoore@smu.edu)[🔗](https://people.smu.edu/pmoore/) of Mathematics at the Dedman College of Humanities and Sciences. 
 
 My works can be found here:
 
@@ -50,12 +50,14 @@ My works can be found here:
 * Email: [jerryma@smu.edu](mailto:jerryma@smu.edu)
 * LinkedIn: [Zerui Ma](https://www.linkedin.com/in/jerma88/)
 
-## Relevant Courses
-Mathematics of Machine Learning
-Machine Learning in Python
-Algorithm Engineering
+## Current Courses
+* Mathematics of Machine Learning
+* Machine Learning in Python
+* Algorithm Engineering
+* Software Engineering
 
 
 My favorite quote:
 
 > "The only way to do great work is to love what you do." - Steve Jobs
+
