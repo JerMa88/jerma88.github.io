@@ -15,7 +15,8 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>3304 Daniel Ave APT 1C</p>
+      <p>Southern Methodist University</p>
+      <p>6425 Boaz Lane</p>
       <p>Dallas, Texas 75205</p>
 
   - align: left
@@ -23,7 +24,8 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>3304 Daniel Ave APT 1C</p>
+      <p>Southern Methodist University</p>
+      <p>6425 Boaz Lane</p>
       <p>Dallas, Texas 75205</p>
 
 ---
