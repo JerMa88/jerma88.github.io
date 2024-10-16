@@ -26,4 +26,4 @@ For the paper submission to EMNLP 2024 through ACL ARR June 2024, I have contrib
 
 Since the paper submission to the Journal of Psychopathology and Clinical Science is still under review, and we are not yet to submit to TACL, I acnnot disclose my research methodologies in detail. Threfore I hope you enjoyed my vague description of my work, and I am excited to continue exploring the possibilities of LLMs in NLP and to contribute to cutting-edge research in this field.
 
-![Big Five Personality Traits](assets/img/big_5.png)
+![Big Five Personality Traits](/assets/img/big_5.png)
