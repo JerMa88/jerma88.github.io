@@ -56,9 +56,9 @@ My works can be found here:
 
 1. Under Review: submission to EMNLP 2024 through ACL ARR June 2024 (3rd Author)
 2. Under Review: submission to [Journal of Psychopathology and Clinical Science](https://www.apa.org/pubs/journals/abn) (2nd Author) 
-[*:clipboard: Abstract: Personality LLM Research*](https://jerma88.github.io/projects/Personality-LLM-Research/)
+  - [:clipboard: <span style="color:red">*Click me for Abstract: Personality LLM Research*</span>](https://jerma88.github.io/projects/Personality-LLM-Research/)
 3. To be Submitted: submission to [Transactions of the Association for Computational Linguistics](https://transacl.org/) (TACL) 
-[*:clipboard: Abstract: Personality LLM Research*](https://jerma88.github.io/projects/Personality-LLM-Research/)
+  - [:clipboard: <span style="color:red">*Click me for Abstract: Personality LLM Research*</span>](https://jerma88.github.io/projects/Personality-LLM-Research/)
 
 ## Contact Me
 
