@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Click [*me :waving:*](https://jerma88.github.io/assets/pdf/Research.pdf) for a copy of my [*resumé*](https://jerma88.github.io/assets/pdf/Research.pdf) !
+Click [*me :wave:*](https://jerma88.github.io/assets/pdf/Research.pdf) for a copy of my [*resumé*](https://jerma88.github.io/assets/pdf/Research.pdf) !
 
 I am Zerui "Jerry" Ma, an undergraduate researcher at Southern Methodist University in Dallas, Tx. I major in Computer Science B.S., Mathematics B.A. and Data Science B.S.. I am working with [Dr. Mehak Gupta](mailto:mehakg.smu.edu) [:link:](https://mehak25.github.io/) for her current research in deep learning and natural language processing with applications in healthcare, where my responsibility has been fine-tuning LLM with interview transcripts for personality and disorder detection.
 
