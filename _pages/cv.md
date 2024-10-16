@@ -5,7 +5,7 @@ title: cv
 nav: true 
 nav_order: 5
 cv_pdf: Research.pdf
-description: This is a web layout of my resume. You can also download my resume with the PDF button. :Index Pointing Up:
+description: This is a web layout of my [*resumé*](https://jerma88.github.io/assets/pdf/Research.pdf). You can also download my [*resumé*](https://jerma88.github.io/assets/pdf/Research.pdf) with the PDF button. ↑
 toc:
   sidebar: left
 ---
