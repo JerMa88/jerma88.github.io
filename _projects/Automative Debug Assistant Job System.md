@@ -3,7 +3,7 @@ layout: page
 title: Automative Debug Assistant Job System
 description: Parallel Programming, Programmer, SMU August 2023 – Dec 2023
 img: assets/img/chatbot.jpg
-importance: 5
+importance: 3
 category: work
 related_publications: false
 ---

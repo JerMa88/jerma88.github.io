@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Recommender Systems and Set-Cover Algorithms for University Curriculum Advising
+title: Independent Research Proposal (June 2024)
 description: Research project on using recommender systems and set-cover algorithms for university curriculum advising.
 img: assets/img/recommender_systems.jpg
-importance: 3
+importance: 5
 category: work
 related_publications: true
 ---
