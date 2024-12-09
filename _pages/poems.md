@@ -3,11 +3,11 @@ layout: page
 permalink: /poems/
 title: poems
 description: Some poems I wrote.
-nav: true
+nav: false
 # nav_order: 
 ---
 
-
+## 
 There are so many thoughts, 
 
 And so many things to learn.
@@ -25,7 +25,7 @@ I may not be the best,
 But I'm far from the worst.
 
 
-
+## 
 The ambiguity of idioms, what does it mean?
 
 Drifting in the wind, like a leaf in a stream.
@@ -51,7 +51,7 @@ But the diversity of language isn't obsolete,
 How can we capture it all with just MSE?
 
 
-
+## 
 Alone and lonely, lonely and alone,
 
 Hiding and seeking behind a big stone. 
@@ -69,7 +69,7 @@ Resting his case, as a fly moans,
 T'was really just me, lonely and alone.
 
 
-
+## 
 Stand at the feet of a unclimable mountain,
 
 What constitutes human excellence, or emotion?
@@ -87,7 +87,7 @@ There are setbacks, and but we must persist,
 Stand back up and fight, and never give in.
 
 
-
+## 
 I love that you are always in my pain. 
 
 Even when I think you're gone, you remain.
@@ -107,7 +107,7 @@ But the way you are still here,
 Keeps me wondering if I am going nowhere.
 
 
-
+## 
 Sure I escaped those lies, but I can't escape the fate, that I will die as I cry. 
 
 The free world offers me light, but I rather stay in that delusional chime. 
@@ -117,7 +117,7 @@ For wisdom brings me sorrow, and I rather have not seen hopes of joyous time,
 Now that I have none, and all that I do, is to grind for that merciless, worthless dime.
 
 
-
+## 
 As I stand here like Ozymandias, 
 
 I rest my weight on this air, Alexandra.

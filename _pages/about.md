@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 
 I am Zerui "Jerry" Ma, an undergraduate researcher at [Southern Methodist University](https://www.smu.edu) in Dallas, Texas. I major in Computer Science B.S., Mathematics B.A. and Data Science B.S.. 
 
-I am a Research Assistant working with [Dr. Mehak Gupta](mailto:mehakg.smu.edu) [(click here for Dr. Gupta's webpage)](https://mehak25.github.io/) for her current research in deep learning and natural language processing with applications in healthcare, where my responsibility has been fine-tuning LLM with interview transcripts for personality and psychological disorder detection.
+I am a Research Assistant working with [Dr. Mehak Gupta](mailto:mehakg.smu.edu) [(click here for Dr. Gupta's webpage)](https://mehak25.github.io/) for her current research in deep learning and natural language processing with applications in healthcare, where my responsibility has been fine-tuning LLM with interview transcripts for personality and psychological disorder detection[(click here for research abstract)](https://jerma88.github.io/projects/Personality-LLM-Research/).
 
 I also have an independent research topic on a Course Recommender System for University Curriculum [(click here for research abstract)](https://jerma88.github.io/projects/Recommender_Systems_Research/) mentored by [Dr. Michael Hahsler](mailto:mhahsler@smu.edu) [(click here for Dr. Hahsler’s webpage)](https://michael.hahsler.net/) of Computer Science at the Bobby B. Lyle School of Engineering, and [Dr. Peter Moore](mailto:pmoore@smu.edu) [(click here for Dr. Moore's webpage)](https://people.smu.edu/pmoore/) of Mathematics at the Dedman College of Humanities and Sciences. I will publish for the [Robert Mayer Fellowship](https://www.smu.edu/dedman/research/institutes-and-centers/dcii/fellowships/mayer) by the end of the school year.
 
@@ -47,7 +47,6 @@ I am looking for a [Ph.D.](https://wikipedia.org/wiki/phd) position in [Computer
 
 1. Under Review: submission to COLING 2025 through [ACL Rolling Review](https://aclrollingreview.org/) June 2024 (3rd Author)
 2. Under Review: submission to [Journal of Psychopathology and Clinical Science](https://www.apa.org/pubs/journals/abn) (2nd Author) [click here for research abstract](https://jerma88.github.io/projects/Personality-LLM-Research/)
-
 3. Under Review: submission to [Transactions of the Association for Computational Linguistics (TACL)](https://transacl.org/) (2nd Author) [click here for research abstract](https://jerma88.github.io/projects/Personality-LLM-Research/)
 
 ## Contact Me

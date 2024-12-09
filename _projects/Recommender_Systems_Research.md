@@ -8,13 +8,11 @@ category: work
 related_publications: true
 ---
 
-# Recommender Systems for University Curriculum Advising
-
 Researcher: Zerui "Jerry" Ma, Computer Science B.S., Mathematics B.A., Data Science B.S., Southern Methodist University
 Mentor for Computer Science: [Dr. Michael Hahsler](mailto:mhahsler@smu.edu)[(click here for Dr. Hahsler's webpage)](https://michael.hahsler.net/), Computer Science Clinical Professor, Lyle School of Engineering
 Mentor for Mathematics and Data Science: [Dr. Peter Moore](mailto:pmoore@smu.edu)[(click here for Dr. Moore's webpage)](https://people.smu.edu/pmoore/), Mathematics Professor, Dedman College of Humanities and Sciences
 
-# Personal Motivation
+## Personal Motivation
 I am a beneficiary of good curriculum planning. I have been able to graduate with three degrees in three years due to the help of advisors and a handy excel sheet. However, I have seen many o fmy friends struggle with course selection and planning, and I believe that a recommender system can help students make better decisions about their academic paths. I am infinitely curious if recommender system is capable of tackling complicated data structures such as the university curriculum. I am also interested in the intersection of computer science and mathematics, and I believe that this research project will allow me to explore the application of machine learning algorithms and optimization techniques in a real-world setting. With passion and a heart to use technology for the improvement of education and advising for student success, I am excited to embark on this research project.
 
 ## Abstract
@@ -132,8 +130,7 @@ The overall workflow begins with the integration of curriculum data and the user
 
 This design leverages advanced computational techniques, such as augmented retrieval and language modeling, to streamline academic advising and provide tailored guidance. By ensuring compliance with institutional policies and integrating user inputs, the system enhances both the efficiency of academic advising and the overall student experience. This methodology demonstrates the system’s capacity to handle complex curriculum data and provide actionable, student-centric recommendations.
 
-![System Pipeline Architecture](/assets/img/pipeline.png)
-
+<img src="/assets/img/pipeline.png" width="800">
 
 <h2 style="text-align: center;">Current Progress</h2>
 
