@@ -127,15 +127,29 @@ No amount of promises can ease my paranoia,
 As I defeat my own longing in my metanoia.
 
 
+## 
+I am tired of just dreaming, I will make it happen.
+
+No warrior eat and drink all day, without action. 
+
+This battle is fierce, and my odds ain't bright, 
+
+But that doesn't mean I won't put up a fight.
 
 
+## 
+Have you seen the light?
 
+Crouching from behind,
 
+Sneaking through your mind,
 
+Exposing what you liked.
 
+There goes that hope and that dream, 
 
+As it gets abandoned in the Great Between.
 
+And the way it all came to how it has never been,
 
-
-
-
+Gives me dread for what it all could have been.
