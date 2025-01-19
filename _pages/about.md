@@ -20,11 +20,11 @@ social: true # includes social icons at the bottom of the page
 
 [Click here](https://jerma88.github.io/assets/pdf/Research.pdf) for a copy of my [:spiral_notepad: *resumé*](https://jerma88.github.io/assets/pdf/Research.pdf) !
 
-I am Zerui "Jerry" Ma, an undergraduate researcher at [Southern Methodist University](https://www.smu.edu) in Dallas, Texas. I major in Computer Science B.S., Mathematics B.A. and Data Science B.S.. 
+I am Zerui "Jerry" Ma, an undergraduate researcher at [Southern Methodist University](https://www.smu.edu) in Dallas, Texas. I major in B.S. in Computer Science with a specialization in AI/ML, B.A. in Mathematics and B.S. in Data Science.
 
-I am a Research Assistant working with [Dr. Mehak Gupta](mailto:mehakg.smu.edu) [(click here for Dr. Gupta's webpage)](https://mehak25.github.io/) for her current research in deep learning and natural language processing with applications in healthcare, where my responsibility has been fine-tuning LLM with interview transcripts for personality and psychological disorder detection[(click here for research abstract)](https://jerma88.github.io/projects/Personality-LLM-Research/).
+I am a Research Assistant working with [Dr. Mehak Gupta :mail:](mailto:mehakg.smu.edu) [(click here for Dr. Gupta's webpage)](https://mehak25.github.io/) for her current research in deep learning and natural language processing with applications in healthcare, where my responsibility has been fine-tuning LLM with interview transcripts for personality and psychological disorder detection[(click here for research abstract)](https://jerma88.github.io/projects/Personality-LLM-Research/).
 
-I also have an independent research topic on a Course Recommender System for University Curriculum [(click here for research abstract)](https://jerma88.github.io/projects/Recommender_Systems_Research/) mentored by [Dr. Michael Hahsler](mailto:mhahsler@smu.edu) [(click here for Dr. Hahsler’s webpage)](https://michael.hahsler.net/) of Computer Science at the Bobby B. Lyle School of Engineering, and [Dr. Peter Moore](mailto:pmoore@smu.edu) [(click here for Dr. Moore's webpage)](https://people.smu.edu/pmoore/) of Mathematics at the Dedman College of Humanities and Sciences. I will publish for the [Robert Mayer Fellowship](https://www.smu.edu/dedman/research/institutes-and-centers/dcii/fellowships/mayer) by the end of the school year.
+I also have an independent research topic on a Course Recommender System for University Curriculum [(click here for research abstract)](https://jerma88.github.io/projects/Recommender_Systems_Research/) mentored by [Dr. Michael Hahsler :mail:](mailto:mhahsler@smu.edu) [(click here for Dr. Hahsler’s webpage)](https://michael.hahsler.net/) of Computer Science at the Bobby B. Lyle School of Engineering, and [Dr. Peter Moore :mail:](mailto:pmoore@smu.edu) [(click here for Dr. Moore's webpage)](https://people.smu.edu/pmoore/) of Mathematics at the Dedman College of Humanities and Sciences. The research has been published to [NCUR](https://www.cur.org/events-services/ncur/) as an abstract, and to [AAAI Spring Symposium](https://aaai.org/conference/spring-symposia/sss25/) as a short paper. It will be published for the [Robert Mayer Fellowship](https://www.smu.edu/dedman/research/institutes-and-centers/dcii/fellowships/mayer) by the end of the 2024-2025 school year.
 
 I am looking for a [Ph.D.](https://wikipedia.org/wiki/phd) position in [Computer Science](https://wikipedia.org/wiki/computer_science), with a focus on [Machine Learning](https://xkcd.com/1838/) Theory and [Natural Language Processing](https://elementsoflinguistics.blogspot.com/2011/01/resolving-of-ambiguity.html).
 
@@ -45,9 +45,10 @@ I am looking for a [Ph.D.](https://wikipedia.org/wiki/phd) position in [Computer
 
 ## Publications
 
-1. Under Review: submission to COLING 2025 through [ACL Rolling Review](https://aclrollingreview.org/) June 2024 (3rd Author)
-2. Under Review: submission to [Journal of Psychopathology and Clinical Science](https://www.apa.org/pubs/journals/abn) (2nd Author) [click here for research abstract](https://jerma88.github.io/projects/Personality-LLM-Research/)
-3. Under Review: submission to [Transactions of the Association for Computational Linguistics (TACL)](https://transacl.org/) (2nd Author) [click here for research abstract](https://jerma88.github.io/projects/Personality-LLM-Research/)
+1. Short Paper: published to [AAAI Spring Symposium](https://aaai.org/conference/spring-symposia/sss25/) March 2025 (1st Author)
+2. Abstract: published to [NCUR](https://www.cur.org/events-services/ncur/) April 2025 (1st Author)
+3. Under Review: submission to [Journal of Psychopathology and Clinical Science](https://www.apa.org/pubs/journals/abn) (2nd Author) [click here for research abstract](https://jerma88.github.io/projects/Personality-LLM-Research/)
+4. Under Review: submission to COLING 2025 through [ACL Rolling Review](https://aclrollingreview.org/) June 2024 (3rd Author)
 
 ## Contact Me
 
@@ -68,4 +69,4 @@ My favorite quote:
 
 > "The only way to do great work is to love what you do." - Steve Jobs
 
-I also play with writing [poems](https://jerma88.github.io/poems/).
+In my free time, I write [poems](https://jerma88.github.io/poems/).
