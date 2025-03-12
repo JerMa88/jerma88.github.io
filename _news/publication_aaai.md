@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Short paper published to AAAI Spring Symposium! :sparkles: :smile:
+Long paper published to AAAI Spring Symposium! :sparkles: :smile:
 
   - [:clipboard: *Click me for Abstract: Recommenders Systems Research*](https://jerma88.github.io/projects/Recommender_Systems_Research/)
