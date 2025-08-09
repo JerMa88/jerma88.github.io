@@ -48,7 +48,7 @@ The TAO package is designed to assist in the different stages of an ONIOM QM/MM 
 Originally written in [Perl](https://www.perl.org), the package is now translated to [Python 3](https://devguide.python.org) for a more convenient development experience for the users of the TAO package due to the popularity of Python, and to incentivize open-source contribution with future implementation of new functionalities. 
 
 ## Tutorial
-You can find the Jupyter notebook of this package [HERE](taopackage_python/python_tutorial.ipynb), where you can execute the python script that is based on the [tutorial](https://s2.smu.edu/ptao/software/taopackage/TAOpackage.html) of the original package. 
+You can find the Jupyter notebook of this package [HERE](https://github.com/JerMa88/PyTAO/blob/main/taopackage_python/python_tutorial.ipynb), where you can execute the python script that is based on the [tutorial](https://s2.smu.edu/ptao/software/taopackage/TAOpackage.html) of the original package. 
 
 ## Documentation
 You can find the documentation of each of the functions of the Python TAO package in the [taopackage_python/docs] folder, where the md and html files of each function is auto-generated from pydoc. You can also run `python <TAO_package_function>.py -h` for the same documentation in your command line. 
