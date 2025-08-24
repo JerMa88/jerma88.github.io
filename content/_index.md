@@ -17,20 +17,20 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/Zerui_Jerry_Ma.pdf
     design:
       css_class: dark
       # Avatar customization
       avatar:
-        size: medium  # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
+        size: large  # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        shape: square # Options: circle (default), square, rounded
       background:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: red-and-blue.svg
           filters:
-            brightness: 1.0
+            brightness: 0.7
           size: cover
           position: center
           parallax: false
@@ -39,11 +39,43 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My Master's thesis is on risk of Alzheimer's Disease prediction using resource-efficient and explainable LLMs, mentored by [Dr. Jennifer Dworak](https://www.smu.edu/lyle/departments/ece/people/faculty/dworak-jennifer), [Dr. Eric Larson](https://www.smu.edu/lyle/departments/cs/people/faculty/larson-eric) and [Dr. Jia Zhang](https://www.smu.edu/lyle/departments/cs/people/faculty/zhang-jia). This thesis aims to develop a predictive metric for risk of Alzheimer's Disease based on natural language, using LLM finetuning, embedding analysis, and other ML and NLP techniques.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I have been developing a regression algorithm with LLMs to predict personality scores under [Dr. Mehak Gupta](https://www.smu.edu/lyle/departments/cs/people/faculty/gupta-mehak), involving research in deep learning and NLP with applications in healthcare. Our papers, [AI Assistant for Socioeconomic Empowerment Using Federated Learning](https://aclanthology.org/2025.nlp4dh-1.42/) has been published to [NLP4DH](https://nlp4dh.com/) at [NAACL 2025](https://2025.naacl.org); [Language-Based AI Modeling of Personality Traits and Pathology from Life Narrative Interviews](https://www.researchgate.net/publication/390926024_Language-Based_AI_Modeling_of_Personality_Traits_and_Pathology_from_Life_Narrative_Interviews) has been published to [Journal of Psychopathology and Clinical Science](https://www.apa.org/pubs/journals/abn)
+
+        My independent research on LLMs as recommender systems mentored by [Dr. Michael Hahsler](https://www.smu.edu/lyle/departments/cs/people/faculty/hahsler-michael) of Computer Science at the Lyle School of Engineering, and [Dr. Peter Moore](https://people.smu.edu/pmoore/) of Mathematics at the Dedman College of Humanities and Sciences. [A Recommender System Architecture for University Curriculum Advising](https://ojs.aaai.org/index.php/AAAI-SS/article/view/35593) has been published to [AAAI Spring Symposium](https://aaai.org/conference/spring-symposia/sss25/) and to [NCUR](https://www.cur.org/events-services/ncur/). The research was funded by the [Robert Mayer Undergraduate Research Fellowship](https://www.smu.edu/dedman/research/institutes-and-centers/dcii/fellowships/mayer).
+
+        This summer, I trained AlphaFold based Stable Diffusion models that predict multi-frame protein trajectory in [Dr. Peng Tao](https://www.smu.edu/dedman/academics/departments/chemistry/people/faculty/pengtao)'s [Proteins and Computers Lab](https://s2.smu.edu/ptao/index.html). I also developed a Python package, [PyTAO](https://github.com/JerMa88/PyTAO), to assist ONIOM calculations in AMBER and Gaussian.
+
+        In [Dr. Corey Clark](https://www.smu.edu/lyle/departments/cs/people/faculty/clark-corey)'s [HuMIn Game Lab](https://humingamelab.com), I am developing a Graph-RAG vector/graph database using [MCP](https://modelcontextprotocol.io/docs/getting-started/intro), striving for faster and more relevant text data retrieval and lookup.
         
-        Please reach out to collaborate 😃
+    # design:
+    #   columns: '1'
+  - block: markdown
+    content:
+      title: 'Research Interests'
+      subtitle: ''
+      text: |-
+        * **Machine Learning**
+          - Transformers
+          - Stable Diffusion
+          - Parallel Computing
+          - Graph-RAG
+          - Natural Language Processing
+
+        * **ML for health**
+          - LLM for Text Embedding
+          - Knowledge Representation
+          - Clinical Diagnostic Metric
+
+        * **Human-Compatible AI**
+          - Human Centered Computing
+          - Recommender Systems
+          - Human in the Loop
+
+        * **Explainable AI (XAI)**
+          - Data Visualization
+          - Embedding Analysis
     design:
       columns: '1'
   - block: collection
@@ -67,16 +99,58 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     view: article-grid
+  #     columns: 1
+  - block: markdown
     content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
+      title: 'Research Interests'
+      subtitle: ''
+      text: |-
+        * **Machine Learning**
+          - Transformers
+          - Stable Diffusion
+          - Parallel Computing
+          - Graph-RAG
+          - Natural Language Processing
+
+        * **ML for health**
+          - LLM for Text Embedding
+          - Knowledge Representation
+          - Clinical Diagnostic Metric
+
+        * **Human-Compatible AI**
+          - Human Centered Computing
+          - Recommender Systems
+          - Human in the Loop
+
+        * **Explainable AI (XAI)**
+          - Data Visualization
+          - Embedding Analysis
     design:
-      view: article-grid
-      columns: 1
+      columns: '1'
+  - block: markdown
+    content:
+      title: 'Development Experience'
+      subtitle: ''
+      text: |-
+        ## Development Experience
+
+        * [PyTAO](https://github.com/JerMa88/PyTAO), a Python package to assist ONIOM calculations.
+
+        * [Social Panacea admin portal](https://vibeadmin.app): a web application for university student social life, using Python, fastAPI, firebase and ReactJS.
+
+        * [Automative Debug Assistant Job System](https://github.com/JerMa88/automative_debug_assistant) an LLM powered job system for automotive debugging, written in C++ and javascript. Utilized mutex locks for concurrency control, designed a custom programming language for job management.
+
+        * [AI Club](https://www.youtube.com/@smuaiclub) President, organizing industry expert forum and workshops for AI enthusiasts at SMU. 
+
   - block: collection
     id: news
     content:

@@ -1,0 +1,13 @@
+<!-- SMU Red & Blue simple 2-color background -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 1024" preserveAspectRatio="none" role="img" aria-label="SMU red and blue background">
+  <!-- Base: SMU Blue -->
+  <rect width="1440" height="1024" fill="#0033A0"/>
+  
+  <!-- Top accent: SMU Red wave -->
+  <path fill="#E41C38" d="
+    M0,0 H1440 V240
+    C1160,200 960,170 760,200
+    C520,236 280,230 0,270
+    Z"/>
+
+</svg>

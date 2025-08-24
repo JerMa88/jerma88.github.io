@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: 'Personal academic website for ML Graduate researcher Zerui "Jerry" Ma. Masters student in Computer Science at SMU, seeking PhD opportunities in Machine Learning for Health, NLP, XAI, and Human-Centered AI. Published in NAACL, AAAI, and top NLP journals. Research includes LLMs for Alzheimer’s prediction, explainable models, federated learning, and protein modeling.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -32,15 +32,15 @@ header:
     enable: true
     blox: "navbar"
     fixed_to_top: true
-    show_search: true
+    show_search: false
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Zerui \"Jerry\" Ma"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Zerui "Jerry" Ma. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
