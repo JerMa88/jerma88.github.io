@@ -251,11 +251,16 @@ skills:
         description: 'Git/GitHub, Docker, RESTful API, React, GNU, Valgrind, JupyterLab, IntelliJ, VSC, Vim, Jira'
         percent: 85
         icon: server-stack
+      
+  - name: Professional Skills
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
       - name: Operating Systems
         description: 'Linux (Arch, Ubuntu, Fedora, Kali), Windows, MacOS, Debug Assistant Job System, TempleOS'
         percent: 80
         icon: window
-      - name: Professional
+      - name: Team & Management
         description: 'Project Management, Interdisciplinary Collaboration, Problem Solving, Communication'
         percent: 85
         icon: briefcase
@@ -263,22 +268,6 @@ skills:
         description: 'Chinese (fluent); LaTeX, Web Scraping, Swift, Android Studio; Cisco Packet Tracer; Power BI'
         percent: 80
         icon: squares-2x2
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
 
 languages:
   - name: Python
