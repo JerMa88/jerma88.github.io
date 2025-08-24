@@ -56,28 +56,22 @@ sections:
       title: 'Research Interests'
       subtitle: ''
       text: |-
-        * **Machine Learning**
-          - Transformers
-          - Stable Diffusion
-          - Parallel Computing
-          - Graph-RAG
-          - Natural Language Processing
+        * **Machine Learning**: 
+        
+        Transformers, Stable Diffusion, Graph-RAG, NLP
 
-        * **ML for health**
-          - LLM for Text Embedding
-          - Knowledge Representation
-          - Clinical Diagnostic Metric
+        * **ML for health**:
+        
+        LLM for Text Embedding, Knowledge Representation, Clinical Diagnostic Metric
 
-        * **Human-Compatible AI**
-          - Human Centered Computing
-          - Recommender Systems
-          - Human in the Loop
+        * **Human-Compatible AI**:
+        
+        Human Centered Computing, Recommender Systems, Human in the Loop
 
-        * **Explainable AI (XAI)**
-          - Data Visualization
-          - Embedding Analysis
-    design:
-      columns: '1'
+        * **Explainable AI (XAI)**: 
+        
+        Data Visualization, Embedding Analysis
+
   - block: collection
     id: papers
     content:
@@ -109,33 +103,7 @@ sections:
   #   design:
   #     view: article-grid
   #     columns: 1
-  - block: markdown
-    content:
-      title: 'Research Interests'
-      subtitle: ''
-      text: |-
-        * **Machine Learning**
-          - Transformers
-          - Stable Diffusion
-          - Parallel Computing
-          - Graph-RAG
-          - Natural Language Processing
 
-        * **ML for health**
-          - LLM for Text Embedding
-          - Knowledge Representation
-          - Clinical Diagnostic Metric
-
-        * **Human-Compatible AI**
-          - Human Centered Computing
-          - Recommender Systems
-          - Human in the Loop
-
-        * **Explainable AI (XAI)**
-          - Data Visualization
-          - Embedding Analysis
-    design:
-      columns: '1'
   - block: markdown
     content:
       title: 'Development Experience'

@@ -24,7 +24,7 @@ abstract: Personality disorders (PDs) are at a crossroads in classification and 
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Personality Detection
 featured: true
 
 hugoblox:

@@ -1,7 +1,7 @@
 ---
 title: Paper Published to NLP4DH, organized with NAACL 2025
 # summary: 
-date: 2024-06-01
+date: 2025-05-01
 authors:
   - admin
 tags:
