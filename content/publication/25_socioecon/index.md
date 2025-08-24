@@ -32,7 +32,7 @@ publishDate: '2025-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: *Proceedings of the 5th International Conference on Natural Language Processing for Digital Humanities*, pages 490–501
+publication: In *Proceedings of the 5th International Conference on Natural Language Processing for Digital Humanities*, pages 490–501
 publication_short: NLP4DH
 
 abstract: Socioeconomic status (SES) reflects an individual’s standing in society, from a holistic set of factors including income, education level, and occupation. Identifying individuals in low-SES groups is crucial to ensuring they receive necessary support. However, many individuals may be hesitant to disclose their SES directly. This study introduces a federated learning-powered framework capable of verifying individuals’ SES levels through the analysis of their communications described in natural language. We propose to study language usage patterns among individuals from different SES groups using clustering and topic modeling techniques. An empirical study leveraging life narrative interviews demonstrates the effectiveness of our proposed approach.
