@@ -54,13 +54,13 @@ The model comprises two main components:
     - Trainable Parameters: Only 0.137% of the total 1.2 billion parameters are trainable due to PEFT.
 
 ## Performance Metrics
-```
 Test Mean Squared Error (MSE): 0.1463
-Test Mean Absolute Error (MAE): 0.2863
-Test R² Score: 0.5052
-```
 
-[![correlation plot](/assets/img/project_idea_density/correlation.png)]()
+Test Mean Absolute Error (MAE): 0.2863
+
+Test R² Score: 0.5052
+
+[![correlation plot](correlation.png)]()
 
 *Interpretation*:
 About **50.52% of the variance in the idea density scores** can be explained by this model. That’s a decent signal so far, especially given the complexity of natural language and the small dataset.
@@ -86,12 +86,22 @@ While the results are promising, they come with high computational demand:
 * Future Directions:
     An increase in the amount of training data (to the millions of data points) and adopting shorter text inputs could accelerate the training process and improve generalization.
 
-[![Validation r^2 over epochs](/assets/img/project_idea_density/val_r2.png)]()
+[![Validation r^2 over epochs](val_r2.png)]()
 
-[![Training loss over epochs](/assets/img/project_idea_density/train_loss.png)]()
+[![Training loss over epochs](train_loss.png)]()
 
-[![Validation loss over epochs](/assets/img/project_idea_density/val_loss.png)]()
+[![Validation loss over epochs](val_loss.png)]()
 
 
 ## Conclusion
 This preliminary study demonstrates the feasibility of using the decoder LLMs like LLaMA3.2 for predicting idea density scores. However, the observed issues regarding computational inefficiency, convergence, and overfitting highlight the need for further adjustments. Future work should focus on using more data and exploring alternative models better suited to the task.
+
+## Future Work
+As it is proven that LLaMA model can predict objective linguistic metrics, in this experiment, idea density scores, to some extent, the following strategies can be employed to enhance model performance:
+* Model Selection:
+    - Experiment with encoder models like Mamba (linear attention), BERT or RoBERTa (bidirectional encoders) for potentially better efficiency and performance.
+* Data Augmentation:
+    - Increase the dataset size to improve model generalization and convergence.
+* Data Resampling:
+    - Use shorter text inputs to reduce computational load and training time.
+    - methodologies may be found in [Data Balancing Strategies: A Survey of Resampling and Augmentation Methods](https://arxiv.org/pdf/2505.13518)
