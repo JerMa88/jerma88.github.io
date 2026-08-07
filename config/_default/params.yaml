@@ -17,7 +17,7 @@ marketing:
     description: 'Personal academic website for ML Graduate researcher Zerui "Jerry" Ma. Masters student in Computer Science at SMU, seeking PhD opportunities in Machine Learning for Health, NLP, XAI, and Human-Centered AI. Published in NAACL, AAAI, and top NLP journals. Research includes LLMs for Alzheimer’s prediction, explainable models, federated learning, and protein modeling.'
     twitter: ''
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-MEASUREMENT_ID'
     baidu_tongji: ''
     plausible: ''
     fathom: ''
