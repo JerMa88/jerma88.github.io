@@ -12,4 +12,4 @@ tags:
 
 I am honored to receive the **Moody Graduate Fellowship** from Southern Methodist University and begin my Ph.D. in Electrical Engineering at the Lyle School of Engineering. 
 
-My doctoral research will focus on foundation model pre/post-training & alignment, low-precision inference acceleration (NVFP4/FP8), and quantum error detection.
+My doctoral research will focus on quantum machine learning and power flow optimization.

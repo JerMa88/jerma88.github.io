@@ -52,7 +52,7 @@ education:
     date_start: 2026-08-01
     date_end: ''
     summary: |
-      Moody Graduate Fellow. Research in quantum machine learning and power system optimization.
+      Moody Graduate Fellow. Research in quantum machine learning and power flow optimization.
   
   - area: M.S. in Computer Science
     institution: Southern Methodist University
