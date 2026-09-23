@@ -29,11 +29,11 @@ featured: true
 
 hugoblox:
   ids:
-    doi: 10.31234/osf.io/j6yud_v1
+    doi: 10.1037/abn0001047
 
 links:
   - type: pdf
-    url: https://osf.io/j6yud_v1/download/
+    url: https://doi.org/10.1037/abn0001047
   # - type: code
   #   url: https://github.com/HugoBlox/hugo-blox-builder
   # - type: dataset

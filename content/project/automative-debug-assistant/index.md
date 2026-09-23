@@ -1,13 +1,17 @@
 ---
-title: Automative Debug Assistant
-subtitle: An LLM-powered automated code debugging assistant
-summary: An agentic LLM-powered automated code debugging assistant with custom job system scheduler and custom-made programming language parser for workflow design.
-date: 2023-08-31
+title: Automated Debug Assistant & Concurrency Scheduler OS
+subtitle: LLM-powered iterative debugging assistant and multithreaded scheduler in C++
+summary: Implemented an automated LLM debugging assistant in C++ interfacing with Ollama REST APIs with mutex locks, deadlock prevention, and Dask distributed parallelization on Slurm HPC clusters.
+date: 2023-12-01
 links:
   - type: site
     url: https://github.com/JerMa88/automative_debug_assistant
 tags:
-  - Program
+  - C++
+  - Concurrency
+  - Ollama
+  - Dask
+  - HPC
   - Agentic AI
 ---
 

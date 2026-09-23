@@ -1,59 +1,53 @@
 ---
-title: PyTAO
-subtitle: a toolkit to assist ONIOM calculation, in Python
-summary: functions that assist ONIOM calculation in AMBER and Gaussian, translated from the original TAO package written in Perl to Python
-date: 2025-07-31
+title: Conditional Diffusion Models for Protein Trajectories (PyTAO)
+subtitle: Generative diffusion modeling for continuous biomolecular dynamics and open-source HPC library
+summary: Designed and trained conditional diffusion generative models to sample continuous molecular dynamics and biomolecular trajectories on Slurm HPC, bypassing expensive QM/MM simulations (published in ACS JCTC).
+date: 2026-01-15
 links:
   - type: site
     url: https://github.com/JerMa88/PyTAO
+  - type: paper
+    url: /publication/26_jctc_protein/
 tags:
-  - Research
-  - Program
+  - Generative AI
+  - Diffusion Models
+  - Protein Trajectories
+  - Molecular Dynamics
+  - PyTorch
+  - HPC
+  - Open Source
 ---
 
-## Github Repository:
-  Source Code: [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/JerMa88/PyTAO)
-
-# PyTAO
-A toolkit to assist ONIOM calculation, in Python
-
-<!-- <p align="center">
-<a href="https://github.com/JerMa88/PyTAO/fork" target="blank">
-<img src="https://"/>
-</a> -->
-<!-- 
-stargazers
-releases
-commits -->
-
-[![GitHub release](https://img.shields.io/github/v/release/jerma88/pytao)](https://github.com/jerma88/pytao/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/jerma88/pytao?color=blue)](https://github.com/jerma88/pytao/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/jerma88/pytao)](https://github.com/jerma88/pytao)
-
-[![GitHub forks](https://img.shields.io/github/forks/jerma88/pytao)](https://github.com/jerma88/pytao/fork)
-[![GitHub issues](https://img.shields.io/github/issues/jerma88/pytao)](https://github.com/jerma88/pytao/issues)
-[![GitHub contributors](https://img.shields.io/github/contributors/jerma88/pytao)](https://github.com/jerma88/pytao/graphs/contributors)
-[![GitHub last commit](https://img.shields.io/github/last-commit/jerma88/pytao)](https://github.com/jerma88/pytao/commits/master)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/jerma88/pytao)](https://github.com/jerma88/pytao/pulls)
-
-[![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
-[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://jerma88.github.io/projects/PyTAO/)
-
+# Conditional Diffusion Models for Protein Trajectories (PyTAO)
 
 ## Overview
-This Python package is translated from the [original TAO package](https://onlinelibrary.wiley.com/doi/full/10.1002/jcc.21524) by Peng Tao and H. Bernhard Schlegel, which was written in Perl. 
+Sampling continuous molecular dynamics and conformational transitions of proteins typically requires computationally prohibitive quantum mechanical / molecular mechanics (QM/MM) calculations. In collaboration with **Dr. Peng Tao's Proteins and Computers Lab** at SMU, we designed and trained conditional diffusion generative models capable of directly generating continuous biomolecular conformational trajectories from boundary structural coordinates, bypassing thousands of CPU/GPU hours of physics simulations.
 
-## Design
-The TAO package is designed to assist in the different stages of an ONIOM QM/MM study of biomolecules, including input file preparation and checking, job monitoring, production calculations, and results analysis. 
+This work culminated in a research publication in the **Journal of Chemical Theory and Computation (ACS, 2026)** and the open-source **PyTAO** computational chemistry and trajectory toolkit.
 
-## Translation
-Originally written in [Perl](https://www.perl.org), the package is now translated to [Python 3](https://devguide.python.org) for a more convenient development experience for the users of the TAO package due to the popularity of Python, and to incentivize open-source contribution with future implementation of new functionalities. 
+```mermaid
+flowchart LR
+    A[Initial & Target\nConformations] --> B[Conditional Diffusion Model\nNoise Scheduler & Denoiser]
+    B --> C[Slurm HPC Training\nDistributed Data Parallel]
+    C --> D[Continuous Molecular Dynamics\nTrajectory Reconstruction]
+    D --> E[Validated Physical Coordinates\nBypassing QM/MM Cost]
+```
 
-## Tutorial
-You can find the Jupyter notebook of this package [HERE](https://github.com/JerMa88/PyTAO/blob/main/taopackage_python/python_tutorial.ipynb), where you can execute the python script that is based on the [tutorial](https://s2.smu.edu/ptao/software/taopackage/TAOpackage.html) of the original package. 
+## Highlights & Engineering
 
-## Documentation
-You can find the documentation of each of the functions of the Python TAO package in the [taopackage_python/docs] folder, where the md and html files of each function is auto-generated from pydoc. You can also run `python <TAO_package_function>.py -h` for the same documentation in your command line. 
+### 1. Conditional Generative Diffusion
+- Implemented deep generative diffusion models conditioned on 3D Cartesian coordinates and learned invariant spatial representations.
+- Reconstructed high-dimensional protein conformational trajectories with realistic bond angles and non-bonded interactions.
 
-## Open Source Contribution
-If you would like to contribute to the development of this package, please feel free to open an issue or a pull request in the [GitHub repository](https://github.com/jerma88/pytao/issues). All contributions are welcome, and I will be happy to review and merge them into the main branch.
+### 2. High-Performance Distributed Training (DDP)
+- Developed Slurm parallel batch training scripts leveraging PyTorch Distributed Data Parallel (DDP) across high-performance GPU clusters.
+- Optimized tensor transformations and memory-mapped trajectory datasets for rapid epoch turnover.
+
+### 3. Open-Source PyTAO Toolkit
+- Built, tested, and released the **PyTAO** open-source Python library, integrating ONIOM calculation automation, coordinate parsing, and Slurm HPC job monitoring for computational chemistry workflows.
+
+## Publication
+* **Efficient sampling of short protein trajectories with conditional diffusion models**  
+  Chen Xiong, Praveen Kandhan, Dong Chen, Zerui Ma, Eric D. Smith, Peng Tao.  
+  *Journal of Chemical Theory and Computation* (ACS), 22(1), 78 (2026).  
+  DOI: [10.1021/acs.jctc.5c01089](https://doi.org/10.1021/acs.jctc.5c01089).

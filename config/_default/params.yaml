@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Personal academic website for ML Graduate researcher Zerui "Jerry" Ma. Masters student in Computer Science at SMU, seeking PhD opportunities in Machine Learning for Health, NLP, XAI, and Human-Centered AI. Published in NAACL, AAAI, and top NLP journals. Research includes LLMs for Alzheimer’s prediction, explainable models, federated learning, and protein modeling.'
+    description: 'Personal academic website of Zerui "Jerry" Ma — Ph.D. Student in Electrical Engineering and Moody Graduate Fellow at Southern Methodist University. Former Research Scientist Intern at AT&T Chief Data Office. Published in ACS JCTC, APA JOPACS, AAAI, and NAACL. Research in ML pre/post-training & alignment, low-precision inference acceleration (NVFP4/FP8), agentic AI (MCP, GraphRAG), and quantum error detection.'
     twitter: ''
   analytics:
     google_analytics: ''

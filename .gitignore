@@ -1,0 +1,25 @@
+# Hugo output and cache
+public/
+resources/
+.hugo_build.lock
+hugo_stats.json
+
+# Node dependencies
+node_modules/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+assets/jsconfig.json
+
+# Local backups
+content/authors/admin/avatar_old.*
